@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_back">
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:text="开始记录"
+        android:textColor="#29652C"
+        android:layout_marginTop="180dp"
+        android:layout_marginLeft="150dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:text="历史记录"
+        android:textColor="#29652C"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="50dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:text="个人中心"
+        android:textColor="#29652C"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="240dp"
+        android:textSize="20sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#29652C"
+        android:text="退出登录"
+        android:gravity="right"
+        android:paddingTop="120dp"
+        android:paddingRight="10dp"
+        />
+</LinearLayout>

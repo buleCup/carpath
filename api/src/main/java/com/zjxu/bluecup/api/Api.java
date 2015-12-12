@@ -8,7 +8,7 @@ package com.zjxu.bluecup.api;
 public interface Api {
 
     /**
-     * 例如:登录方法
+     * 例如:登录方法的封装
      *
      * @param loginName 登录名
      * @param password 密码
